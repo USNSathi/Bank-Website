@@ -9,4 +9,4 @@ document.getElementById('login-submit').addEventListener('click', function () {
     if (userEmail == 'usnsathi@gmail.com' && userPassword == 'secret') {
         window.location.href = 'banking.html';
     }
-})
+});
